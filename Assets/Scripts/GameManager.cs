@@ -1,0 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GameManager : Singleton<GameManager>
+{
+    public void Game()
+    {
+        Debug.Log("Create GameManager...");
+    }
+}
