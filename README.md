@@ -1,3 +1,3 @@
 # 7Week_DesignPatterns
 
-this repository is BCSD 7Week HomeWork.
+this repository is BCSD 7Week Singleton Pattern HomeWork.
